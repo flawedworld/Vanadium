@@ -1,4 +1,4 @@
-From 6b7ebdb65734c97f7dc3d5feef4ee800e1a8abad Mon Sep 17 00:00:00 2001
+From 93ecfe9c5fc93119333547c630a5aef23367ca0b Mon Sep 17 00:00:00 2001
 From: Daniel Micay <danielmicay@gmail.com>
 Date: Wed, 3 Mar 2021 13:42:41 -0500
 Subject: [PATCH 42/76] enable user agent freeze by default

@@ -1,4 +1,4 @@
-From 362197cd2250b59af78a2b09cdc692d0d7550980 Mon Sep 17 00:00:00 2001
+From aec00d111a3575269221a7bc996b2595e65d2eca Mon Sep 17 00:00:00 2001
 From: A Mak <refragable@mailbox.org>
 Date: Sat, 25 Jul 2020 17:56:47 -0700
 Subject: [PATCH 10/76] Remove logo from chrome://version

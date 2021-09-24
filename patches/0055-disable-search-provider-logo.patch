@@ -1,4 +1,4 @@
-From 4dd0fa9cb23b5a5da76c5e922a15e11d85f3a850 Mon Sep 17 00:00:00 2001
+From 94bf022aea6c32d9d0ad2da98ae34290c868d586 Mon Sep 17 00:00:00 2001
 From: Daniel Micay <danielmicay@gmail.com>
 Date: Mon, 17 Jun 2019 12:03:52 -0400
 Subject: [PATCH 55/76] disable search provider logo
